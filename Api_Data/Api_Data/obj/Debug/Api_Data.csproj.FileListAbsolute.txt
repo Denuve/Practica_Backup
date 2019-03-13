@@ -1,0 +1,11 @@
+E:\C#\Practica_Webpush\Api_Data\Api_Data\bin\Debug\Api_Data.exe.config
+E:\C#\Practica_Webpush\Api_Data\Api_Data\bin\Debug\Api_Data.exe
+E:\C#\Practica_Webpush\Api_Data\Api_Data\bin\Debug\Api_Data.pdb
+E:\C#\Practica_Webpush\Api_Data\Api_Data\obj\Debug\Api_Data.csprojAssemblyReference.cache
+E:\C#\Practica_Webpush\Api_Data\Api_Data\obj\Debug\Api_Data.csproj.CoreCompileInputs.cache
+E:\C#\Practica_Webpush\Api_Data\Api_Data\obj\Debug\Api_Data.exe
+E:\C#\Practica_Webpush\Api_Data\Api_Data\obj\Debug\Api_Data.pdb
+E:\C#\Practica_Webpush\Api_Data\Api_Data\bin\Debug\Newtonsoft.Json.dll
+E:\C#\Practica_Webpush\Api_Data\Api_Data\bin\Debug\Newtonsoft.Json.pdb
+E:\C#\Practica_Webpush\Api_Data\Api_Data\bin\Debug\Newtonsoft.Json.xml
+E:\C#\Practica_Webpush\Api_Data\Api_Data\obj\Debug\Api_Data.csproj.CopyComplete
