@@ -42,7 +42,7 @@ namespace Api_Data
 
             foreach (JToken result in results)
             {
-                Console.WriteLine(result["gender"]);
+                Console.WriteLine(result);
             }
             Console.ReadKey();
 
