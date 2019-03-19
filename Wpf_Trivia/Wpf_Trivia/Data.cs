@@ -1,4 +1,6 @@
-﻿namespace Wpf_Trivia
+﻿using System.Collections.Generic;
+
+namespace Wpf_Trivia
 {
     class Data
     {
@@ -12,13 +14,8 @@
 
         public string Question { get; set; }
 
-        public Incorrect_Answer Incorrect { get; set; }
+        public int TotalCorrectAnswers { get; set; }
 
-        public struct Incorrect_Answer
-        {
-            string incorrect1;
-            string incorrect2;
-            string incorrect3;
-        }
+       
     }
 }
